@@ -1,1 +1,1 @@
-window.location.replace("https://beefframeworktest.pages.dev/hacked/");
+window.location = 'https://beefframeworktest.pages.dev/hacked/'
