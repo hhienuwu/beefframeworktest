@@ -1,1 +1,1 @@
-window.location.href = "https://hhienuwu.github.io/beefframeworktest/hacked/index.html";
+window.location.href = "https://beefframeworktest.pages.dev/hacked/";
